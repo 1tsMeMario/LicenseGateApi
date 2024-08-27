@@ -10,6 +10,7 @@ To install LicenseGate Wrapper, simply include the library.h header and static l
 - Nlohmann Json
 - LibCurl
 - OpenSSL
+- XorStr
 
 ## Example Usages
 
