@@ -1,6 +1,7 @@
 # License Gate Api Wrapper for C++
 
 ## Installation
+Build project using VS 2022. first time building you will have error building the loader. simply move the .lib into the loader folder and include in project.
 
 To install LicenseGate Wrapper, simply include the library.h header and static lib in your project
 
