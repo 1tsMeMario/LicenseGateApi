@@ -12,6 +12,9 @@ int main() {
     // Optionally enable debugging
     licenseGate.debug();
 
+    // Optionally enable RSA Challenges
+    licenseGate.useChallenges();
+
     // Verify a license key
     std::string licenseKey = "";
     std::string scope = "";
